@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello you, I am Lukas a leisure developer. I have been programming since I was 13 years old, so for more than 4 years. I love setting up systems with my hands myself</div>  
+### <div align="center">Hello you, I am Lukas a leisure developer. I have been programming since I was 13 years old, so for more than 5 years. I love setting up systems with my hands myself</div>  
   
 
 - 🌱 I’m currently learning C++ and C#  
